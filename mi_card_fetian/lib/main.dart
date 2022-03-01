@@ -29,7 +29,7 @@ class Myapp extends StatelessWidget {
                 style: TextStyle(
                   color: Colors.white,
                   fontFamily: 'Pacifico',
-                  fontSize: 20.0,
+                  fontSize: 40.0,
                   fontWeight: FontWeight.bold,
                 ),
               ),
@@ -39,9 +39,15 @@ class Myapp extends StatelessWidget {
               Text(
                 'FLUTTER DEVELOPER',
                 style:
-                    TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+                    TextStyle(
+                fontFamily: 'Source Sans Pro',
+                color: Colors.teal.shade100,
+                fontSize: 20.0,
+                letterSpacing: 2.5,
+                fontWeight: FontWeight.bold,),
               ),
               SizedBox(
+                height: 20.0,
                 width: 150.0,
                 child: Divider(
                   color: Colors.white,
@@ -57,7 +63,7 @@ class Myapp extends StatelessWidget {
                   title: Text(
                     '+20 100 902 1622',
                     style: TextStyle(
-                        color: Colors.teal,
+                        color: Colors.teal.shade900,
                         fontSize: 20.0,
                         fontFamily: 'SourceSansPro'),
                   ),
