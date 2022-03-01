@@ -5,7 +5,7 @@ A new Flutter project.
 ## What you will create
 Hello World App for ensure my setup environment Flutter is good.
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/hello_world.png)
 
 
 ## Getting Started
