@@ -1,12 +1,11 @@
 # xylophone_fetian
 
-
 ## What you will create
 
-We’re going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are.
+We’re going to make a sound app that plays Azkar sounds.
 
  
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
+![Finished App](https://github.com/fetian-debug/fetian-flutter/blob/main/images/xylophone.png)
 
 
 

@@ -3,7 +3,7 @@
 
 ## What you will create
 
-We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
+We’re going to make a magical ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
+(https://github.com/fetian-debug/fetian-flutter/blob/main/images/magic_ball.gif)
 
