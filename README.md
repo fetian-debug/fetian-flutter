@@ -1,11 +1,11 @@
 # fetian-flutter
 
-1. ![I am rich App]()
-2. ![I am poor App]()
-3. ![Mi card App]()
-4. ![Magic ball App]()
-5. ![Dicee App]()
-6. ![Xylophone App]()
+1. ![I am rich App](https://github.com/fetian-debug/fetian-flutter/tree/main/images/rich.png)
+2. ![I am poor App](https://github.com/fetian-debug/fetian-flutter/tree/main/images/poor.png)
+3. ![Mi card App](https://github.com/fetian-debug/fetian-flutter/tree/main/images/mi_card.png)
+4. ![Magic ball App](https://github.com/fetian-debug/fetian-flutter/tree/main/images/magic_ball.gif)
+5. ![Dicee App](https://github.com/fetian-debug/fetian-flutter/tree/main/images/dicee.gif)
+6. ![Xylophone App](https://github.com/fetian-debug/fetian-flutter/tree/main/images/xylophone.png)
 
 
 # Usefull Links
